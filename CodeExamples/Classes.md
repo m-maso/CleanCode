@@ -25,4 +25,4 @@ public class ClientRepository {}	// db persistence
 - General methods
 - Own methods   
 
-See an example of class structure [here](https://github.com/m-maso/CleanCode/blob/main/Person.java)
+See an example of class structure [here](https://github.com/m-maso/CleanCode/blob/main/CodeExamples/Person.java)
